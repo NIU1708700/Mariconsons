@@ -4494,6 +4494,18 @@
     },
     "done": true
   },
+  "minecraft:adventure/trim_with_any_armor_pattern": {
+    "criteria": {
+      "armor_trimmed_minecraft:flow_armor_trim_smithing_template_smithing_trim": "2024-07-09 14:36:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lighten_up": {
+    "criteria": {
+      "lighten_up": "2024-07-09 14:47:04 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_from_waxed_oxidized_copper_stonecutting": {
     "criteria": {
       "has_waxed_oxidized_copper": "2024-07-09 14:53:42 +0200"
@@ -4503,12 +4515,6 @@
   "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_waxed_oxidized_copper_stonecutting": {
     "criteria": {
       "has_waxed_oxidized_copper": "2024-07-09 14:53:42 +0200"
-    },
-    "done": true
-  },
-  "minecraft:adventure/lighten_up": {
-    "criteria": {
-      "lighten_up": "2024-07-09 14:47:04 +0200"
     },
     "done": true
   },
@@ -4527,12 +4533,6 @@
   "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_waxed_oxidized_copper_stonecutting": {
     "criteria": {
       "has_waxed_oxidized_copper": "2024-07-09 14:53:42 +0200"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trim_with_any_armor_pattern": {
-    "criteria": {
-      "armor_trimmed_minecraft:flow_armor_trim_smithing_template_smithing_trim": "2024-07-09 14:36:57 +0200"
     },
     "done": true
   },
