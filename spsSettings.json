@@ -2,7 +2,9 @@
   "gameType": "SURVIVAL",
   "difficulty": "HARD",
   "cheats": true,
-  "invited": [],
+  "invited": [
+    "ffd701b0-f09d-4748-88b7-b3922de00b74"
+  ],
   "shareResourcePack": true,
   "oppedPlayers": []
 }
