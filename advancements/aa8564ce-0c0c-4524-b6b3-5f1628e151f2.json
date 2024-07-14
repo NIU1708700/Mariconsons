@@ -344,11 +344,13 @@
       "minecraft:breeze": "2024-07-09 04:06:10 +0200",
       "minecraft:magma_cube": "2024-06-06 23:01:09 +0200",
       "minecraft:spider": "2024-06-05 23:58:20 +0200",
+      "minecraft:piglin_brute": "2024-07-14 01:02:24 +0200",
       "minecraft:creeper": "2024-06-06 00:31:42 +0200",
       "minecraft:wither": "2024-06-09 16:13:33 +0200",
       "minecraft:slime": "2024-06-11 23:40:44 +0200",
       "minecraft:evoker": "2024-06-13 00:07:46 +0200",
       "minecraft:phantom": "2024-06-16 20:36:24 +0200",
+      "minecraft:zombified_piglin": "2024-07-14 00:52:25 +0200",
       "minecraft:witch": "2024-06-11 16:44:04 +0200",
       "minecraft:wither_skeleton": "2024-06-06 22:44:59 +0200",
       "minecraft:husk": "2024-07-09 04:45:45 +0200",
@@ -2228,9 +2230,10 @@
       "minecraft:crimson_forest": "2024-06-06 22:57:16 +0200",
       "minecraft:nether_wastes": "2024-06-06 20:54:43 +0200",
       "minecraft:soul_sand_valley": "2024-06-06 22:38:26 +0200",
-      "minecraft:basalt_deltas": "2024-06-06 20:54:41 +0200"
+      "minecraft:basalt_deltas": "2024-06-06 20:54:41 +0200",
+      "minecraft:warped_forest": "2024-07-14 01:12:59 +0200"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
@@ -4557,6 +4560,84 @@
   "minecraft:recipes/redstone/crafter": {
     "criteria": {
       "has_dropper": "2024-07-12 02:23:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-07-14 01:01:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-07-14 01:01:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2024-07-14 01:06:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2024-07-14 01:12:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2024-07-14 00:41:55 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-07-14 01:01:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-07-14 01:01:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-07-14 01:01:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-07-14 01:01:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-07-14 01:01:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-07-14 01:01:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2024-07-14 00:41:55 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2024-07-14 01:32:50 +0200"
     },
     "done": true
   },
